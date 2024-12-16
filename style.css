@@ -1,7 +1,10 @@
 img {
-    width: 200px
+    width: 200px;
 }
 
-body h1 {
+body {
     text-align: center;
+    background: azure;
+    color: brown;
+    font-family: "Papyrus";
 }
